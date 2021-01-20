@@ -16,5 +16,15 @@ namespace Notepad
         {
             InitializeComponent();
         }
+
+        private void filesToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBox_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
